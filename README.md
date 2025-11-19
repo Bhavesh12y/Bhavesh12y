@@ -13,7 +13,8 @@ As a CSE student, I am passionate about building innovative solutions and explor
 ## 🛠 Skills
 
 - *Programming Languages*:  
-  - Beginner: C, Java, HTML  
+  - Beginner: C, Java, js, cpp
+  - 
   - Exploring: Data Structures and Algorithms
 - *Tools*: Git, Figma
 - *Soft Skills*: Communication, Team Collaboration, Design Thinking
