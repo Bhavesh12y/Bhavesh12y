@@ -1,56 +1,55 @@
-# 👨‍💻 Bhavesh Gupta
+# Bhavesh Gupta
 
-Welcome to my GitHub! I am *Bhavesh Gupta* (GitHub: [bhavesh12y](https://github.com/bhavesh12y)), a Computer Science Engineering student dedicated to learning and growing in the field of technology. This repository is a showcase of my projects, skills, and aspirations.
+**Computer Science Engineering Student | Frontend Developer**
 
----
+I am a passionate developer dedicated to building innovative solutions. From mastering low-level logic in C/C++ to building modern web apps with React and Node.js, I love exploring the endless possibilities of code.
 
-## 📌 About Me
-
-As a CSE student, I am passionate about building innovative solutions and exploring the endless possibilities of programming. My journey began with *C programming, and I am now venturing into **Java* and *HTML* to sharpen my technical skills.
-
----
-
-## 🛠 Skills
-
-- *Programming Languages*:  
-  - Beginner: C, Java, js, cpp
-  - 
-  - Exploring: Data Structures and Algorithms
-- *Tools*: Git, Figma
-- *Soft Skills*: Communication, Team Collaboration, Design Thinking
-- *Interests*: Web Development, Problem Solving, Software Engineering
+- **Portfolio:** [bhaveshportfolio.vercel.app](https://bhaveshportfolio.vercel.app/)
+- **Location:** BML Munjal University, India
 
 ---
 
-## 🌟 Featured Projects
+## 🛠 Skills Arsenal
 
-### 1. *Ethylene absorber for increasing shelf life *  
-   - *Description*: Designed a solution to reduce post-harvest food waste for perishable items.
-   - *Skills Used*: Design Thinking, Stakeholder Analysis, Research.
-   - *Outcome*: Proposed an innovative to increase shelf life.
-
----
-
-## 📚 Current Learning Goals
-
-1. Build a strong foundation in *Java* and *HTML* through projects.
-2. Master *algorithms and data structures* for efficient problem-solving.
-3. Actively participate in *hackathons* to enhance collaborative skills.
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | C (A+ Grade), C++, Java (OOP), Python, JavaScript |
+| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS |
+| **Backend/DB**| Node.js, MongoDB, Mongoose |
+| **Tools** | Git, GitHub, Postman, VS Code |
+| **Design** | Figma, Canva, AutoCAD |
+| **Other** | IoT (Arduino), Data Analytics (Pandas) |
 
 ---
 
-## 📬 Connect with Me
+## 🚀 Key Projects
 
-- *GitHub*: [bhavesh12y](https://github.com/bhavesh12y)  
-- *Email*: [bhavesh.gupta.24cse@bmu.edu.in](mailto:bhavesh.gupta.24cse@bmu.edu.in)  
-- *LinkedIn*: [Bhavesh Gupta](#)
+### 🧠 **Quiz It**
+*Full Stack Quiz Platform*
+- Built a dynamic quiz application with **Node.js** and **MongoDB**.
+- Features include secure login, real-time scoring, and dynamic leaderboards.
+- [View Code](https://github.com/Bhavesh12y/quizitfinal.git)
+
+### 🎓 **EduQuest**
+*Smart India Hackathon Project*
+- A gamified learning platform built with **React**.
+- Focuses on making learning interactive and tracking student progress visually.
+
+### 🍃 **Ethylene Adsorber**
+*IoT & Hardware Project*
+- Designed a system to reduce food waste by controlling ethylene gas.
+- Utilized **Arduino** and sensors; applied Design Thinking principles.
 
 ---
 
-## 🔮 Future Aspirations
-
-- Create web-based projects integrating *JavaScript* and *CSS*.  
-- Innovate solutions leveraging *AI and Machine Learning*.  
-- Contribute to open-source projects and grow as a developer.  
+## 📚 Current Goals
+1.  Mastering **Data Structures & Algorithms** in C++.
+2.  Deepening knowledge of **System Design**.
+3.  Contributing to Open Source projects.
 
 ---
+
+## 📫 Contact
+- **GitHub:** [@bhavesh12y](https://github.com/bhavesh12y)
+- **LinkedIn:** [Bhavesh Gupta](https://www.linkedin.com/in/bhavesh12z)
+- **Email:** bhavesh.gupta.24cse@bmu.edu.in
