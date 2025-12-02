@@ -24,7 +24,7 @@ I am a passionate developer dedicated to building innovative solutions. From mas
 
 ##  Key Projects
 
-### 🧠 **Quiz It**
+###  **Quiz It**
 *Full Stack Quiz Platform*
 - Built a dynamic quiz application with **Node.js** and **MongoDB**.
 - Features include secure login, real-time scoring, and dynamic leaderboards.
