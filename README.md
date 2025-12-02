@@ -9,7 +9,7 @@ I am a passionate developer dedicated to building innovative solutions. From mas
 
 ---
 
-## 🛠 Skills Arsenal
+## Skills Arsenal
 
 | Category | Technologies |
 |----------|--------------|
@@ -22,7 +22,7 @@ I am a passionate developer dedicated to building innovative solutions. From mas
 
 ---
 
-## 🚀 Key Projects
+##  Key Projects
 
 ### 🧠 **Quiz It**
 *Full Stack Quiz Platform*
@@ -30,26 +30,26 @@ I am a passionate developer dedicated to building innovative solutions. From mas
 - Features include secure login, real-time scoring, and dynamic leaderboards.
 - [View Code](https://github.com/Bhavesh12y/quizitfinal.git)
 
-### 🎓 **EduQuest**
+### **EduQuest**
 *Smart India Hackathon Project*
 - A gamified learning platform built with **React**.
 - Focuses on making learning interactive and tracking student progress visually.
 
-### 🍃 **Ethylene Adsorber**
+###  **Ethylene Adsorber**
 *IoT & Hardware Project*
 - Designed a system to reduce food waste by controlling ethylene gas.
 - Utilized **Arduino** and sensors; applied Design Thinking principles.
 
 ---
 
-## 📚 Current Goals
+##  Current Goals
 1.  Mastering **Data Structures & Algorithms** in C++.
 2.  Deepening knowledge of **System Design**.
 3.  Contributing to Open Source projects.
 
 ---
 
-## 📫 Contact
+##  Contact
 - **GitHub:** [@bhavesh12y](https://github.com/bhavesh12y)
 - **LinkedIn:** [Bhavesh Gupta](https://www.linkedin.com/in/bhavesh12z)
 - **Email:** bhavesh.gupta.24cse@bmu.edu.in
