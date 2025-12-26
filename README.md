@@ -1,6 +1,6 @@
 <p align="center">
 
-# Helloo..!
+# Helloo.!
 I’m Bhavesh Gupta<br><br>Computer Science Engineering student & passionate Full-Stack Developer who enjoys turning ideas into scalable, real-world applications.<br>
 [PORTFOLIO](https://bhaveshportfolio.vercel.app)
 
