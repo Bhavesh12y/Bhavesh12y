@@ -12,10 +12,7 @@ I’m Bhavesh Gupta<br><br>Computer Science Engineering student & passionate Ful
 
 
 # GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=bhavesh12y&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=bhavesh12y&theme=dark&hide_border=false)
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Bhavesh12y/Bhavesh12y/output/github-contribution-grid-snake-dark.svg" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=bhavesh12y&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://streak-stats.demolab.com/?user=bhavesh12y&theme=dark&hide_border=false)
+<img src="https://raw.githubusercontent.com/Bhavesh12y/Bhavesh12y/output/github-contribution-grid-snake-dark.svg" />
 
 </p>
