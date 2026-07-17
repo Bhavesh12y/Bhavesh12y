@@ -12,7 +12,7 @@
 
 <p align="center">
 <samp>
-Computer Science Engineering Student @ BMU | Full-Stack Developer | Design Lead @ Sci-Mat
+Computer Science Engineering Student @ BMU | Full-Stack Developer 
 </samp>
 </p>
 
@@ -61,27 +61,23 @@ Computer Science Engineering Student @ BMU | Full-Stack Developer | Design Lead 
 </tr>
 </table>
 </td>
-<td width="30%" valign="top" align="left">
-<h3 align="center">🚀 Core Projects</h3>
+
+<td width="30%" valign="top" align="center">
+<h3 align="center">Core Projects</h3>
 <br>
-<ul style="line-height: 1.6;">
-<li><b>Sketch Cafe:</b> Android mobile ordering application engineered to streamline campus outlet queues.</li>
-<li><b>MangaVerse:</b> Full-stack platform built for manga readers and anime community discussions.</li>
-<li><b>Ethylene Adsorber:</b> C++ IoT hardware integration aimed at increasing the shelf life of perishables.</li>
-<li><b>Surge 2.0:</b> Flagship technical event organization featuring CTFs and custom 3D emblem branding.</li>
-<li><b>Open SOURCERY 2.0:</b> Multi-part workshop series centered on Git and open-source contributions.</li>
-</ul>
+<a href="https://doozles.xyz" target="_blank"><img src="https://img.shields.io/badge/_Doozles-Fun_Gaming_Site-0f172a?style=for-the-badge&logo=nintendoswitch&logoColor=E60012&labelColor=1e293b" alt="Doozles" /></a><br><br>
+<a href="https://quizit-25r8.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/_Quizit-Interactive_Quiz_App-0f172a?style=for-the-badge&logo=codeforces&logoColor=FFCC00&labelColor=1e293b" alt="Quizit" /></a><br><br>
+<a href="https://github.com/Bhavesh12y/sketchcafe2" target="_blank"><img src="https://img.shields.io/badge/_MangaVerse-Anime_%26_Manga_Hub-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1e293b" alt="MangaVerse" /></a>
 </td>
-<td width="30%" valign="top" align="left">
-<h3 align="center">🧠 Focus Domains</h3>
+
+<td width="30%" valign="top" align="center">
+<h3 align="center"> Focus Domains</h3>
 <br>
-<ul style="line-height: 1.6;">
-<li>Full-Stack Web &amp; Mobile App Architecture</li>
-<li>Cybersecurity &amp; SOC Operations Analysis</li>
-<li>Digital Safety &amp; Community Initiatives</li>
-<li>Algorithmic Problem Solving (C++)</li>
-<li>Technical Design &amp; Team Leadership</li>
-</ul>
+<img src="https://img.shields.io/badge/Architecture-Web_%26_Mobile_Apps-0f172a?style=for-the-badge&logo=stackshare&logoColor=06B6D4&labelColor=1e293b" alt="Architecture" /><br><br>
+<img src="https://img.shields.io/badge/Security-Cybersecurity_%26_SOC_Ops-0f172a?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=1e293b" alt="Security" /><br><br>
+<img src="https://img.shields.io/badge/Community-Digital_Safety_Initiatives-0f172a?style=for-the-badge&logo=wechat&logoColor=06B6D4&labelColor=1e293b" alt="Community" /><br><br>
+<img src="https://img.shields.io/badge/Logic-Algorithmic_Problem_Solving-0f172a?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=1e293b" alt="Logic" /><br><br>
+<img src="https://img.shields.io/badge/Leadership-Technical_Design_%26_Teams-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=1e293b" alt="Leadership" />
 </td>
 </tr>
 </table>
@@ -90,7 +86,7 @@ Computer Science Engineering Student @ BMU | Full-Stack Developer | Design Lead 
 <a href="https://github.com/bhavesh12y"><img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" alt="divider"></a>
 </p>
 
-<h3 align="center">📊 Vital Statistics</h3>
+<h3 align="center"> Vital Statistics</h3>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavesh12y&bg_color=07111F&color=67E8F9&line=8B5CF6&point=FFFFFF&hide_border=true" alt="Contribution Graph" width="100%" />
@@ -108,40 +104,24 @@ Computer Science Engineering Student @ BMU | Full-Stack Developer | Design Lead 
 <p align="center">
 <a href="https://github.com/bhavesh12y"><img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" alt="divider"></a>
 </p>
+<h3 align="center"> Network &  Contact</h3>
+<br>
 
-<table width="100%" border="0" cellspacing="10" cellpadding="0">
-<tr>
-<td width="33%" valign="top">
-<h2>🤝 Collaboration &amp; Goals</h2>
-I am currently exploring opportunities and open to collaborating on:
-<ul style="line-height: 1.6;">
-<li><b>Internships:</b> Actively seeking a Cybersecurity SOC 1 internship in Gurgaon (May - July 2026).</li>
-<li><b>Development:</b> Building scalable, real-world web and Android applications.</li>
-<li><b>Community:</b> Organizing tech club events, digital safety initiatives, and CTF challenges.</li>
-<li><b>Logic:</b> Practicing advanced algorithmic concepts and competitive programming.</li>
-</ul>
-</td>
-<td width="34%" align="center" valign="middle">
-<h2>🔗 Network</h2>
-<br>
-<a href="https://linkedin.com/in/bhavesh12z"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br><br>
-<a href="https://x.com/bhavesh12g"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a><br><br>
-<a href="https://instagram.com/bhavesh12z"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a><br><br>
+<p align="center">
+<a href="https://linkedin.com/in/bhavesh12z"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://x.com/bhavesh12g"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
+<a href="https://instagram.com/bhavesh12z"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://reddit.com/user/u/AdUpper4129"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"></a>
-</td>
-<td width="33%" valign="top" align="center">
-<h2>📫 Contact</h2>
-<br>
+</p>
+
+<p align="center">
 <a href="https://bhaveshportfolio.vercel.app">
 <img src="https://img.shields.io/badge/Personal%20Website-Portfolio-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal website link">
 </a>
-<br><br>
 <a href="mailto:guptabhavi06@gmail.com">
 <img src="https://img.shields.io/badge/Email-guptabhavi06@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email contact link">
 </a>
-</td>
-</tr>
-</table>
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=07111F&height=100&section=footer&width=100" alt="Profile footer wave"/>
