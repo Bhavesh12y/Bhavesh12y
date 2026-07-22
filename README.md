@@ -1,3 +1,6 @@
+ 
+
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=07111F&fontColor=67E8F9&height=250&section=header&text=Bhavesh%20Gupta&fontSize=70&animation=twinkling" alt="Bhavesh Gupta profile header" />
 </p>
@@ -21,12 +24,13 @@ Computer Science Engineering Student @ BMU | Full-Stack Developer
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Animated technical visual">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" width="500">
 </p>
 
 <p align="center">
 <a href="https://github.com/bhavesh12y"><img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" alt="divider"></a>
 </p>
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg" width="100%" alt="System core panel" />
